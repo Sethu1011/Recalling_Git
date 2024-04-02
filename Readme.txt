@@ -1,5 +1,5 @@
 Welcome to my project
 
-Author : Sethupathy S
+Author : Sethupathy Sambathkumar
 
 Insta : r_x_k_i_d
